@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renatolsantos.
-- 👀 I'm interested in learn more about back-end languages.
+- 👀 I'm interested in learn more about back-end and front-end languages.
 - 🌱 I’m currently learning Angular, Java and TypeScript.
 - 💞️ I'm looking to collaborate in everything I can.
 - 📫 You can reach me for here or send e-mail message to renatolsanto@hotmail.com.
